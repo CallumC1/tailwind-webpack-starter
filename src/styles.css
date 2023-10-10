@@ -1,0 +1,8 @@
+/* Reminder you can do mt (press tab) to auto-compelte to nearest css E.g. Margin-Top */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    background-color: red;
+}
